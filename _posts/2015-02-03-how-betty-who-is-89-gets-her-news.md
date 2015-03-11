@@ -20,7 +20,7 @@ Here&#8217;s what I&#8217;m picturing:
 2. or a site with text and photos and no links  
 3. no pop-ups, no overlaid ads, no bait-and-switch links  
 4. easy and big scroll buttons  
-5. maybe two-steps needed to leave the page
+5. maybe two-steps needed to leave the page (what about a hover effect that shows a snippet of where you're about to be taken on a click)
 
 Have you seen something that would be well-designed for Betty? What would you make?   #newsforbetty
 
